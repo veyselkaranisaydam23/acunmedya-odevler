@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\bin\Debug\net8.0\acunmedya-hafta1-odev.exe
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\bin\Debug\net8.0\acunmedya-hafta1-odev.deps.json
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\bin\Debug\net8.0\acunmedya-hafta1-odev.runtimeconfig.json
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\bin\Debug\net8.0\acunmedya-hafta1-odev.dll
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\bin\Debug\net8.0\acunmedya-hafta1-odev.pdb
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.AssemblyInfo.cs
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.dll
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\refint\acunmedya-hafta1-odev.dll
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.pdb
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\acunmedya-hafta1-odev.genruntimeconfig.cache
+C:\Users\Monster\source\repos\acunmedya-hafta1-odev\acunmedya-hafta1-odev\obj\Debug\net8.0\ref\acunmedya-hafta1-odev.dll

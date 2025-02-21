@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "acunmedya-hafta1-odev/1.0.0": {
+        "runtime": {
+          "acunmedya-hafta1-odev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acunmedya-hafta1-odev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
