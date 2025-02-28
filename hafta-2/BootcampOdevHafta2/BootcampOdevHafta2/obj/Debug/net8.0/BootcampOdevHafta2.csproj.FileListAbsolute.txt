@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\bin\Debug\net8.0\BootcampOdevHafta2.exe
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\bin\Debug\net8.0\BootcampOdevHafta2.deps.json
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\bin\Debug\net8.0\BootcampOdevHafta2.runtimeconfig.json
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\bin\Debug\net8.0\BootcampOdevHafta2.dll
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\bin\Debug\net8.0\BootcampOdevHafta2.pdb
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.AssemblyInfo.cs
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.dll
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\refint\BootcampOdevHafta2.dll
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.pdb
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\BootcampOdevHafta2.genruntimeconfig.cache
+C:\Users\Monster\source\repos\BootcampOdevHafta2\BootcampOdevHafta2\obj\Debug\net8.0\ref\BootcampOdevHafta2.dll
