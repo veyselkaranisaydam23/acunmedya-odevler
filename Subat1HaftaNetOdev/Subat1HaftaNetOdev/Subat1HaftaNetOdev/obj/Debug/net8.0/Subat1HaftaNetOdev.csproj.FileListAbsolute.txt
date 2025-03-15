@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\bin\Debug\net8.0\Subat1HaftaNetOdev.exe
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\bin\Debug\net8.0\Subat1HaftaNetOdev.deps.json
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\bin\Debug\net8.0\Subat1HaftaNetOdev.runtimeconfig.json
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\bin\Debug\net8.0\Subat1HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\bin\Debug\net8.0\Subat1HaftaNetOdev.pdb
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\refint\Subat1HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.pdb
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\Subat1HaftaNetOdev.genruntimeconfig.cache
+C:\Users\Monster\source\repos\Subat1HaftaNetOdev\Subat1HaftaNetOdev\obj\Debug\net8.0\ref\Subat1HaftaNetOdev.dll
