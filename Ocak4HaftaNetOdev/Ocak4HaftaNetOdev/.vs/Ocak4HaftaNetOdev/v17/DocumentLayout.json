@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\Ocak4HaftaNetOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A32F8D-790D-4D8A-98CC-2DBAF3C5DF5C}|Ocak4HaftaNetOdev\\Ocak4HaftaNetOdev.csproj|c:\\users\\monster\\source\\repos\\ocak4haftanetodev\\ocak4haftanetodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A32F8D-790D-4D8A-98CC-2DBAF3C5DF5C}|Ocak4HaftaNetOdev\\Ocak4HaftaNetOdev.csproj|solutionrelative:ocak4haftanetodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Ocak4HaftaNetOdev\\Ocak4HaftaNetOdev\\Program.cs",
+              "RelativeDocumentMoniker": "Ocak4HaftaNetOdev\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Ocak4HaftaNetOdev\\Ocak4HaftaNetOdev\\Program.cs",
+              "RelativeToolTip": "Ocak4HaftaNetOdev\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:25:04.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
