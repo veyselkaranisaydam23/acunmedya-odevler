@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\bin\Debug\net8.0\Mart1HaftaNetReactOdev.exe
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\bin\Debug\net8.0\Mart1HaftaNetReactOdev.deps.json
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\bin\Debug\net8.0\Mart1HaftaNetReactOdev.runtimeconfig.json
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\bin\Debug\net8.0\Mart1HaftaNetReactOdev.dll
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\bin\Debug\net8.0\Mart1HaftaNetReactOdev.pdb
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.dll
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\refint\Mart1HaftaNetReactOdev.dll
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.pdb
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\Mart1HaftaNetReactOdev.genruntimeconfig.cache
+C:\Users\Monster\source\repos\Mart1HaftaNetReactOdev\Mart1HaftaNetReactOdev\obj\Debug\net8.0\ref\Mart1HaftaNetReactOdev.dll

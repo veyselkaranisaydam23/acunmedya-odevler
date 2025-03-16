@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\business\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\business\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\dataaccess\\itechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\dataaccess\\itechnologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\dataaccess\\iprogramminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\dataaccess\\iprogramminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|c:\\users\\monster\\source\\repos\\mart1haftanetreactodev\\mart1haftanetreactodev\\mart1haftanetreactodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27CD88C7-E377-43B8-8444-B9570B5EB0A8}|Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj|solutionrelative:mart1haftanetreactodev\\mart1haftanetreactodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechnologyService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\TechnologyService.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Business\\TechnologyService.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\TechnologyService.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Business\\TechnologyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:14:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITechnologyService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\ITechnologyService.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Business\\ITechnologyService.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\ITechnologyService.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Business\\ITechnologyService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:14:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TechnologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\TechnologyRepository.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\DataAccess\\TechnologyRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\TechnologyRepository.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\DataAccess\\TechnologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:13:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Presentation\\Program.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Presentation\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:04:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Core\\IRepository.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Core\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:03:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Entities\\Technology.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Entities\\Technology.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Entities\\Technology.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Entities\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:01:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Entities\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Entities\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Entities\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Entities\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:00:52.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITechnologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\ITechnologyRepository.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\DataAccess\\ITechnologyRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\ITechnologyRepository.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\DataAccess\\ITechnologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:13:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProgrammingLanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\IProgrammingLanguageService.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Business\\IProgrammingLanguageService.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\IProgrammingLanguageService.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Business\\IProgrammingLanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:03:08.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgrammingLanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Business\\ProgrammingLanguageManager.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Business\\ProgrammingLanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:03:16.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:02:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\IProgrammingLanguageRepository.cs",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\DataAccess\\IProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\DataAccess\\IProgrammingLanguageRepository.cs",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\DataAccess\\IProgrammingLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:01:53.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mart1HaftaNetReactOdev",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj",
+              "RelativeDocumentMoniker": "Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj",
+              "RelativeToolTip": "Mart1HaftaNetReactOdev\\Mart1HaftaNetReactOdev.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T14:01:21.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
