@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\bin\Debug\net8.0\Ocak3HaftaNetOdev.exe
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\bin\Debug\net8.0\Ocak3HaftaNetOdev.deps.json
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\bin\Debug\net8.0\Ocak3HaftaNetOdev.runtimeconfig.json
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\bin\Debug\net8.0\Ocak3HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\bin\Debug\net8.0\Ocak3HaftaNetOdev.pdb
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\refint\Ocak3HaftaNetOdev.dll
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.pdb
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\Ocak3HaftaNetOdev.genruntimeconfig.cache
+C:\Users\Monster\source\repos\Ocak3HaftaNetOdev\Ocak3HaftaNetOdev\obj\Debug\net8.0\ref\Ocak3HaftaNetOdev.dll
