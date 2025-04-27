@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\efinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\efinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\efemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\efemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\efapplicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\efapplicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\iapplicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\iapplicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.repositories\\bootcampprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215F9E9-25FE-42CA-A231-9A13910BB2FE}|BootCampProject.Repositories\\BootCampProject.Repositories.csproj|solutionrelative:bootcampproject.repositories\\bootcampprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.core\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|solutionrelative:bootcampproject.core\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.core\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|solutionrelative:bootcampproject.core\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|solutionrelative:bootcampproject.core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE2B53B-1D6B-46D7-9F58-CAC9DC5AEDCD}|BootCampProject.Entities\\BootCampProject.Entities.csproj|solutionrelative:bootcampproject.entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|solutionrelative:bootcampproject.core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.core\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B12091-3EBA-40CA-B29A-EE97B8EB200E}|BootCampProject.Core\\BootCampProject.Core.csproj|solutionrelative:bootcampproject.core\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E803F6A-EDC0-43AD-91B3-DC9809ECDF2C}|BootCampProject.Business\\BootCampProject.Business.csproj|c:\\users\\monster\\source\\repos\\bootcampproject\\bootcampproject.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E803F6A-EDC0-43AD-91B3-DC9809ECDF2C}|BootCampProject.Business\\BootCampProject.Business.csproj|solutionrelative:bootcampproject.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\EfEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfEmployeeRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\EfEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:16:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfApplicantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfApplicantRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\EfApplicantRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfApplicantRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\EfApplicantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:15:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfInstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfInstructorRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\EfInstructorRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfInstructorRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\EfInstructorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:15:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfUserRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\EfUserRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\EfUserRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\EfUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:15:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:14:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IApplicantRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\IApplicantRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IApplicantRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\IApplicantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:14:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IInstructorRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\IInstructorRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IInstructorRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\IInstructorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:14:04.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:13:47.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BootCampProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\BootCampProjectContext.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Repositories\\BootCampProjectContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\BootCampProjectContext.cs",
+              "RelativeToolTip": "BootCampProject.Repositories\\BootCampProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:13:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Core\\EfRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\EfRepositoryBase.cs",
+              "RelativeToolTip": "BootCampProject.Core\\EfRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:12:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Core\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IAsyncRepository.cs",
+              "RelativeToolTip": "BootCampProject.Core\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:12:17.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IRepository.cs",
+              "RelativeToolTip": "BootCampProject.Core\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:11:59.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Employee.cs",
+              "RelativeToolTip": "BootCampProject.Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:11:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Applicant.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Entities\\Applicant.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Applicant.cs",
+              "RelativeToolTip": "BootCampProject.Entities\\Applicant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:10:59.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\Instructor.cs",
+              "RelativeToolTip": "BootCampProject.Entities\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:10:29.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\User.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\User.cs",
+              "RelativeToolTip": "BootCampProject.Entities\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:09:20.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\Entity.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Core\\Entity.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\Entity.cs",
+              "RelativeToolTip": "BootCampProject.Core\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:09:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IEntity.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Core\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\IEntity.cs",
+              "RelativeToolTip": "BootCampProject.Core\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:08:47.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "BootCampProject.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Business\\Class1.cs",
+              "RelativeToolTip": "BootCampProject.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:05:15.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

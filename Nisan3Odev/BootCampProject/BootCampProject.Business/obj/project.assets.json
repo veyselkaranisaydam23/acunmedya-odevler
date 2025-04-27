@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BootCampProject.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BootCampProject.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BootCampProject.Core.dll": {}
+        }
+      },
+      "BootCampProject.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BootCampProject.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BootCampProject.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BootCampProject.Entities.dll": {}
+        }
+      },
+      "BootCampProject.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BootCampProject.Core": "1.0.0",
+          "BootCampProject.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BootCampProject.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BootCampProject.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootCampProject.Core/1.0.0": {
+      "type": "project",
+      "path": "../BootCampProject.Core/BootCampProject.Core.csproj",
+      "msbuildProject": "../BootCampProject.Core/BootCampProject.Core.csproj"
+    },
+    "BootCampProject.Entities/1.0.0": {
+      "type": "project",
+      "path": "../BootCampProject.Entities/BootCampProject.Entities.csproj",
+      "msbuildProject": "../BootCampProject.Entities/BootCampProject.Entities.csproj"
+    },
+    "BootCampProject.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../BootCampProject.Repositories/BootCampProject.Repositories.csproj",
+      "msbuildProject": "../BootCampProject.Repositories/BootCampProject.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BootCampProject.Core >= 1.0.0",
+      "BootCampProject.Entities >= 1.0.0",
+      "BootCampProject.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Monster\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Business\\BootCampProject.Business.csproj",
+      "projectName": "BootCampProject.Business",
+      "projectPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Business\\BootCampProject.Business.csproj",
+      "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\BootCampProject.Core.csproj": {
+              "projectPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Core\\BootCampProject.Core.csproj"
+            },
+            "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\BootCampProject.Entities.csproj": {
+              "projectPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Entities\\BootCampProject.Entities.csproj"
+            },
+            "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Monster\\source\\repos\\BootCampProject\\BootCampProject.Repositories\\BootCampProject.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
